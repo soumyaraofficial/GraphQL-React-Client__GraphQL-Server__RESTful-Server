@@ -1,0 +1,19 @@
+{
+  "name": "graphql-restclient",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@apollo/server": "^4.11.3",
+    "axios": "^1.8.4",
+    "graphql": "^16.10.0",
+    "graphql-tag": "^2.12.6",
+    "notarealdb": "^0.2.2"
+  }
+}
